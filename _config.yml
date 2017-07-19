@@ -1,0 +1,54 @@
+layout_spectrum: 0.26933655886449803
+typography_spectrum: 0.04979319020949009
+color:
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+  brandStrength: 0.8448237684583937
+  lightness: 0.7469229908490388
+  saturation: 0.038117927215292606
+  rhythmicContrast: 0.7990831883048805
+name: team
+url: 'https://thegrid.ai/teamwork'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: gridtalk
+    url: 'http://gridtalk.info'
+    type: external
+title: teamwork
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93f27f8f-b087-41d3-98ca-a085b819267a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/93f27f8f-b087-41d3-98ca-a085b819267a.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: building together..
+github: true
